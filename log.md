@@ -23,3 +23,24 @@
 **Thoughts** I have already hit the point of needing to google how to wrtie code bits I had already learned. Like marking something with an ID. Luckily for me I already know the secret to coding is to look up what you can't remember and that it's okay to not remember every little bit. It's more important that I know I need the thing, then how to do it, with coding. Still having fun with it, but lost focus early tonight. Still Trucking along.
 
 **Link(s) to work**: [freeCodeCamp Progress](https://www.freecodecamp.org/fcc56a6600e-af2c-4e41-874d-b1032a27aa0e)
+
+### Day 4: September 17 2021
+**Today's Prgoress** Continued to learn more stuff about CSS.
+
+**Thoughts**: Learning a lot about style and setting up classes. Kinda forgot to update thie for a few days, was only worried about twitter. Ha.
+
+**Link(s) to work**: [freeCodeCamp Progress](https://www.freecodecamp.org/fcc56a6600e-af2c-4e41-874d-b1032a27aa0e)
+
+### Day 5: September 18 2021
+**Today's Prgoress**: Was very distracted this night and didn't make much progress.
+
+**Thoughts**: This is another time where I had to look up stuff I just read the other day. At least knowing what I'm looking for, like typing CSS Style, gives me exactly what I need. So as long as I know what I need, forgetting how to do it is not a problem.
+
+**Link(s) to work**: [freeCodeCamp Progress](https://www.freecodecamp.org/fcc56a6600e-af2c-4e41-874d-b1032a27aa0e)
+
+### Day5: September 19 2021
+**Today's Prgoress** Not much. Headache and eyes hurt.
+
+**Thoughts**: Tonight my anixety was really high so I didn't get much done. 
+
+**Link(s) to work**: [freeCodeCamp Progress](https://www.freecodecamp.org/fcc56a6600e-af2c-4e41-874d-b1032a27aa0e)
