@@ -44,3 +44,10 @@
 **Thoughts**: Tonight my anixety was really high so I didn't get much done. 
 
 **Link(s) to work**: [freeCodeCamp Progress](https://www.freecodecamp.org/fcc56a6600e-af2c-4e41-874d-b1032a27aa0e)
+
+### Day6: Setember 21 2021
+**Today's Progress** Finished the CSS basics on freeCodeCamp, saw a Penguin waving. 
+
+**Thoughts** Once again foiled for a bit by spelling Gray as Grey. The HTML understood it but the challenge didn't want to finish because of it. Seeing the penguin wave was pretty neat, can't wait till I'm able to code that kind of stuff myself. 
+
+**Link(s) to work**: [freeCodeCamp Progress](https://www.freecodecamp.org/fcc56a6600e-af2c-4e41-874d-b1032a27aa0e)
