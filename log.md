@@ -51,3 +51,10 @@
 **Thoughts** Once again foiled for a bit by spelling Gray as Grey. The HTML understood it but the challenge didn't want to finish because of it. Seeing the penguin wave was pretty neat, can't wait till I'm able to code that kind of stuff myself. 
 
 **Link(s) to work**: [freeCodeCamp Progress](https://www.freecodecamp.org/fcc56a6600e-af2c-4e41-874d-b1032a27aa0e)
+
+### Day7: September 24 2021
+**Today's Prgoress** Apllied Visual Design.
+
+**Thoughts** Missed a few day do to some hiccups. Back on it now tho.
+
+**Link(s) to work**: [freeCodeCamp Progress](https://www.freecodecamp.org/fcc56a6600e-af2c-4e41-874d-b1032a27aa0e)
