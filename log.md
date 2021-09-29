@@ -53,8 +53,24 @@
 **Link(s) to work**: [freeCodeCamp Progress](https://www.freecodecamp.org/fcc56a6600e-af2c-4e41-874d-b1032a27aa0e)
 
 ### Day7: September 24 2021
-**Today's Prgoress** Apllied Visual Design.
+**Today's Progress** Apllied Visual Design.
 
 **Thoughts** Missed a few day do to some hiccups. Back on it now tho.
 
 **Link(s) to work**: [freeCodeCamp Progress](https://www.freecodecamp.org/fcc56a6600e-af2c-4e41-874d-b1032a27aa0e)
+
+### Day8: September 27 2021
+**Today's Progress**: More applied visual design.
+
+**Thoughts** Honestly not sure if I'm really getting this all. Mostly I'm just doing the challenges, I watched a video that said a good coder tinkers with their code but I don't know how to even begin that.
+
+**Link(s) to work**: [freeCodeCamp Progress](https://www.freecodecamp.org/fcc56a6600e-af2c-4e41-874d-b1032a27aa0e)
+
+### Day9: September 28 2021
+**Today's Progress**: More Applied Visual Design 
+
+**Thoughts** I think there are a lot of concepts I'm missing out on and not fully understanding. Honestly it's getting more stress full. As can be noted I've missed a few days in a row. It's hard to remain consistant.
+
+**Link(s) to work**: [freeCodeCamp Progress](https://www.freecodecamp.org/fcc56a6600e-af2c-4e41-874d-b1032a27aa0e)
+
+
