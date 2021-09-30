@@ -73,4 +73,7 @@
 
 **Link(s) to work**: [freeCodeCamp Progress](https://www.freecodecamp.org/fcc56a6600e-af2c-4e41-874d-b1032a27aa0e)
 
+### Day10: Septermber 29 2021
+**Today's Progress**: Applied Visual Design
 
+**Thoughts** So now I'm hearing about colour theory which seems like a very complex subject and daunting, but I suppose it's not really the main point of what I was learning. Also got to do some basic Animating with CSS which was cool.
